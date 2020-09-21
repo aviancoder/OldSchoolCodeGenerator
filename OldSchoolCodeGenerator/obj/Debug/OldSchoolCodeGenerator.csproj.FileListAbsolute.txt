@@ -1,0 +1,11 @@
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\bin\Debug\OldSchoolCodeGenerator.exe.config
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\bin\Debug\OldSchoolCodeGenerator.exe
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\bin\Debug\OldSchoolCodeGenerator.pdb
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.csprojAssemblyReference.cache
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.CodeGenerator.resources
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.Properties.Resources.resources
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.csproj.GenerateResource.cache
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.csproj.CoreCompileInputs.cache
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.exe
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.pdb
+D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.JString.resources
