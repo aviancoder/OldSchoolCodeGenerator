@@ -16,8 +16,9 @@ namespace OldSchoolCodeGenerator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CodeGenerator());
+            Application.Run(new CSharpCodeGenerator());
             Application.Run(new JString());
+            Application.Run(new CodeGenerator());
         }
     }
 }

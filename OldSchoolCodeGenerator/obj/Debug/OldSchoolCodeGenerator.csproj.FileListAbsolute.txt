@@ -9,3 +9,15 @@ D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCod
 D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.exe
 D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.pdb
 D:\Hands On\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.JString.resources
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\bin\Debug\OldSchoolCodeGenerator.exe.config
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\bin\Debug\OldSchoolCodeGenerator.exe
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\bin\Debug\OldSchoolCodeGenerator.pdb
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.csprojAssemblyReference.cache
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.CodeGenerator.resources
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.JString.resources
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.Properties.Resources.resources
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.csproj.GenerateResource.cache
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.csproj.CoreCompileInputs.cache
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.exe
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.pdb
+D:\Git Consolidation Repo\OldSchoolCodeGenerator\OldSchoolCodeGenerator\obj\Debug\OldSchoolCodeGenerator.CSharpCodeGenerator.resources
